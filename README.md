@@ -1,1 +1,1 @@
-"# squid-v4-init" 
+# squid-v4-init
